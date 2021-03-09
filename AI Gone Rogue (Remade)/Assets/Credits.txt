@@ -1,0 +1,31 @@
+﻿Sounds used:
+ * Interior Door_Unlock.mp3 by Eric Matyas              (https://soundimage.org)
+ * JM_NOIZ_Laser 05.wav by Julien Matthey               (https://freesound.org/people/Julien%20Matthey/sounds/470934/)
+ * nsstudios_laser2.wav by nsstudios, original          (https://freesound.org/people/nsstudios/sounds/321101/)
+ * Air-Lock 3 by Eric Matyas (edited, named Door Open)  (https://soundimage.org)
+ * Electronic Door Opening by alegemaate                (https://freesound.org/people/alegemaate/sounds/364688/)
+ * Slowmo Sound by benjaminharveydesign (edited)        (https://freesound.org/people/benjaminharveydesign/sounds/366092/)
+    - The same slowmo sound is used for speeding up, but reversed and slightly sped up
+ * Clock Ticking by FlashTrauma                         (https://freesound.org/people/FlashTrauma/sounds/398275/)
+ * Slowmo Mark Sound by rfmfilm (editied)               (https://freesound.org/people/rfmfilm/sounds/275136/)
+ * Lift Reached Sound by Inspector J (Bell, Counter, A.wav) (www.jshaw.co.uk) of Freesound.org (https://freesound.org/people/InspectorJ/sounds/415510/)
+ * Explosion.wav consists of 2 explosion tracks mixed and edited in Audacity
+    1. Explosion5 by Eric Matyas                        (https://soundimage.org)
+    2. Firework Explosion by TBOY298                    (https://freesound.org/people/TB0Y298/sounds/254071/)
+ * UI Confirmation Alert (B5.wav) by Inspector J        (www.jshaw.co.uk) of Freesound.org (https://freesound.org/people/InspectorJ/sounds/403013/)
+ * UI Select by Theogobbo                               (https://freesound.org/people/Theogobbo/sounds/397472/)
+ * Small Explosion by Zangrutz (amplified)              (https://freesound.org/people/Zangrutz/sounds/155235/)
+ * Laser Impact by nsstudios                            (https://freesound.org/people/nsstudios/sounds/321105/)
+
+Music by Daniel Gooding (https://assetstore.unity.com/packages/audio/music/electronic/dark-future-music-3777):
+ * FutureWorld_Dark_Loop_02 (the music played when the character is spawned into the world)
+ * FutureWorld_Darkness_Loop (the music played when the character dies)
+ * FutureWorld_Resolution_Loop (the music played when the game is won)
+ * FutureWorld_DarkCave_Loop   (the music played in the title screen)
+
+Packages used:
+ * Tween by Digital Ruby (Jeff Johnson)         (https://assetstore.unity.com/packages/tools/animation/tween-55983)
+    - For performing transitions, such as changing a float variable from 0 to 1 in 0.5 seconds.
+      The package didn't include support for transitions using unscaled time, but I modified it
+      and now it accepts unscaled time.
+ * Cinemachine by Unity Technologies Inc.
